@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+<p align='center'>Deeksha Pant </p>
+logo: /assets/img/Deeksha.jpg
+description: 
+<p align='center'>
+<a href='pdf/DeekshaPant_Resume.pdf">Resume</a>
+<a href="http://www.linkedin.com/deeksha-pant">LinkedIn</a>
+<a href='https://github.com/deeksha-pant'>GitHub</a>
+
+</br>
+I am Data enthusiast with a Master's degree in Computer Science and knowledge in machine learning and statistical analysis.
+Proven track record of designing and implementing data-driven solutions for business improvement.
+Worked in Finance Domain for 14+ years
+</br>
+</p>
+
 theme: jekyll-theme-minimal
